@@ -16,4 +16,4 @@ Vamos a crear un programa modular con métodos independientes para resolver prob
 * Un método independiente para calcular la Velocidad final en cinemática.
 * La función principal (`main`) simplemente llamará a estos métodos pasándoles los parámetros necesarios, manteniendo la lógica separada.
 
-🔗 **[Haz clic aquí para ver el código fuente resuelto de este ejercicio](../src/EjemploMetodos.java)**
+🔗 [Haz clic aquí para ver el código fuente resuelto de este ejercicio](https://github.com/Gabo111-hub/tutorial-fundamentos-programacion/blob/main/src/EjemploMetodos.java)
