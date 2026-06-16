@@ -16,4 +16,4 @@ Para entender la diferencia, vamos a crear un programa que simule el inicio de s
 * Si se equivoca, le volverá a preguntar usando un ciclo `while`.
 * El usuario tendrá un máximo de 3 intentos permitidos.
 
-🔗 **[Haz clic aquí para ver el código fuente resuelto de este ejercicio](../src/EjemploCiclos)**
+🔗 **[Haz clic aquí para ver el código fuente resuelto de este ejercicio](https://github.com/Gabo111-hub/tutorial-fundamentos-programacion/blob/main/src/EjemploCiclos.java)**
